@@ -1,4 +1,4 @@
-package com.expense.ExpenseReport.entity;
+package com.expense.expenseReport.entity;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
